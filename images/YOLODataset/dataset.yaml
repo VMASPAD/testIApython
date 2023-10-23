@@ -1,0 +1,5 @@
+train: C:\Users\tomas\Desktop\Programacion\Python\Udemy\PythonParaNoMatematicos\V2\images\YOLODataset/images/train/
+val: C:\Users\tomas\Desktop\Programacion\Python\Udemy\PythonParaNoMatematicos\V2\images\YOLODataset/images/val/
+test: C:\Users\tomas\Desktop\Programacion\Python\Udemy\PythonParaNoMatematicos\V2\images\YOLODataset/images/test/
+nc: 2
+names: ["botella", "papel"]
